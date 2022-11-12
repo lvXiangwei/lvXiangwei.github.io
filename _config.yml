@@ -24,10 +24,10 @@ title: Xiangwei's Blog                          # the main title
 tagline: 记录学习研究   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  xiangwei's blog， 记录学习研究工作
+  xiangwei's blog, 记录学习研究工作
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://lvXiangwei.github.io'
 
 github:
   username: lvXiangwei             # change to your github username
